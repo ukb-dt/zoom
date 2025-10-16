@@ -1,1 +1,12 @@
-y
+- Summary of our last meeting
+   - Review them here
+   - You'll put your github account to use next month 
+- Notes to [contextualize](https://ukb-dt.github.io/ed-01/)
+   - Decision support
+   - Intelligence
+   - Compute
+   - Energy
+   - Monetary costs
+      - Ecological costs are important
+      - But its the demand we are focusing on for now
+      - Your feedback is very welcome
