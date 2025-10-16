@@ -1,4 +1,4 @@
-# A Project Orientation & Collaboration Setup
+# A. Project Orientation & Collaboration Setup
 
 ## Meeting Summary
 
@@ -66,7 +66,7 @@ Ukubona and Edward discussed the structure and scheduling of meetings, distingui
 
 *Last updated: Thu Oct 16, 2025*
 
-# Ukubona Energy Framework: Reconciled Analysis
+# B. Ukubona Energy Framework 
 
 ## Your Tree Model + Actual Context
 
