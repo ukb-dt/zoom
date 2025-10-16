@@ -70,7 +70,7 @@ Ukubona and Edward discussed the structure and scheduling of meetings, distingui
 
 ## Our Tree Metaphor + Actual Context
 
-| **Tree Layer** | **Your Input** | **Ukubona Context** | **Reconciliation** |
+| **Tree Layer** | **Our Input** | **Ukubona Context** | **Reconciliation** |
 |---|---|---|---|
 | **Soil (Fuels)** | Fuels | Oracle, NVIDIA, AMD, Broadcom partnerships; renewable contracts; grid capacity | Energy suppliers compete for clean power. Big AI locks in 30+ GW contracts, leaving less for simulations. |
 | **Roots (Access + Untapped)** | Access + Untapped | Renewable supply constraints; household/clinic/city electricity access | Ukubona simulations need sub-$0.01 per prediction to stay accessible as grid costs rise. |
@@ -85,7 +85,7 @@ Ukubona and Edward discussed the structure and scheduling of meetings, distingui
 
 ### 1. **Are we modeling this for a specific context?**
 
-**Yes.** Ukubona builds kidney disease simulations for clinical decision-making (organ donor screening, 20-year risk modeling). The energy angle is *instrumental*: as AI hyperscalers sign multi-billion-dollar power deals (30+ GW by Oct 2025), electricity gets expensive, threatening research accessibility. Your job is to track and optimize energy *within* the simulation pipeline.
+**Yes.** Ukubona builds kidney disease simulations for clinical decision-making (organ donor screening, 20-year risk modeling). The energy angle is *instrumental*: as AI hyperscalers sign multi-billion-dollar power deals (30+ GW by Oct 2025), electricity gets expensive, threatening research accessibility. Our job is to track and optimize energy *within* the simulation pipeline.
 
 **Context tie-in:** OpenAI's 30 GW commitment ≈ 2% of U.S. grid. This drives up costs for households ($10–20/month) and research. Ukubona stays viable by keeping per-prediction cost under $0.01.
 
@@ -94,7 +94,7 @@ Ukubona and Edward discussed the structure and scheduling of meetings, distingui
 ### 2. **How do the "decision support" and "intelligence" demands feed back into the tree?**
 
 **Feedback loop:**
-- **Decision Support** → Clinical teams use your sim outputs (predictions) to decide on donor viability.
+- **Decision Support** → Clinical teams use our sim outputs (predictions) to decide on donor viability.
 - **Intelligence** → Outputs must include risk metrics (age, BP, genetics, aperiodic complexity).
 - **Compute** → Higher decision quality = more cases to model = higher CPU/GPU demand.
 - **Energy** → More compute = more power draws (dE/dt spikes).
@@ -102,7 +102,7 @@ Ukubona and Edward discussed the structure and scheduling of meetings, distingui
 
 **Back to roots:** If energy prices spike, Ukubona can't afford to run as many simulations → less intelligence → worse decisions. The tree *starves* from the bottom.
 
-**Your role:** Instrument the simulation to measure kWh per output, identify where energy is wasted, and optimize scheduling for low-cost grid periods.
+**Our role:** Instrument the simulation to measure kWh per output, identify where energy is wasted, and optimize scheduling for low-cost grid periods.
 
 ---
 
