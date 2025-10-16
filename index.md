@@ -102,8 +102,10 @@ Ukubona and Edward discussed the structure and scheduling of meetings, distingui
 
 **Back to roots:** If energy prices spike, Ukubona can't afford to run as many simulations → less intelligence → worse decisions. The tree *starves* from the [bottom](https://ukb-dt.github.io/wl/nairobi/roots.jpg).
 
-<img src="https://ukb-dt.github.io/wl/nairobi/roots.jpg" alt="Roots Nairobi" width="300">
+> *Roots denied access to fuel by concrete*      
+> -- Westlands, Nairobi
 
+<img src="https://ukb-dt.github.io/wl/nairobi/roots.jpg" alt="Roots Nairobi" width="300">
 
 **Our role:** Instrument the simulation to measure kWh per output, identify where energy is wasted, and optimize scheduling for low-cost grid periods.
 
