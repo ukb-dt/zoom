@@ -68,7 +68,7 @@ Ukubona and Edward discussed the structure and scheduling of meetings, distingui
 
 # B. Ukubona Energy Framework 
 
-## Your Tree Model + Actual Context
+## Our Tree Metaphor + Actual Context
 
 | **Tree Layer** | **Your Input** | **Ukubona Context** | **Reconciliation** |
 |---|---|---|---|
@@ -81,9 +81,9 @@ Ukubona and Edward discussed the structure and scheduling of meetings, distingui
 
 ---
 
-## Answering Your 3 Questions
+## Answering 3 Questions
 
-### 1. **Are you modeling this for a specific context?**
+### 1. **Are we modeling this for a specific context?**
 
 **Yes.** Ukubona builds kidney disease simulations for clinical decision-making (organ donor screening, 20-year risk modeling). The energy angle is *instrumental*: as AI hyperscalers sign multi-billion-dollar power deals (30+ GW by Oct 2025), electricity gets expensive, threatening research accessibility. Your job is to track and optimize energy *within* the simulation pipeline.
 
@@ -126,7 +126,7 @@ Ukubona and Edward discussed the structure and scheduling of meetings, distingui
 
 ## Operational Summary for 12-Month Plan
 
-Your framework perfectly maps the Ukubona challenge:
+Our framework perfectly maps the Ukubona challenge:
 
 | **Month Range** | **Tree Layer Focus** | **Energy Goal** |
 |---|---|---|
