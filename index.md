@@ -2,10 +2,10 @@
 
 ## Meeting Summary
 
-- **Summary of our last meeting**  
-  Review them [here](#quick-recap)
+- **Summary notes from our last meeting**  
+  - Review them [here](#quick-recap)
 - **You'll put your GitHub account to use next month**  
-  Username: `EdwardSsemambo`
+  - Username: `EdwardSsemambo`
 
 ## Context & Focus Areas
 
